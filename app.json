@@ -1,0 +1,7 @@
+{
+  "name": "Sangria akka-http Example",
+  "description": "An example GraphQL server written with akka-http, sangria and circe.",
+  "repository": "https://github.com/flmendes/sangria-akka-http-circe-example",
+  "logo": "https://raw.githubusercontent.com/OlegIlyenko/sangria/master/logo/sangria-icon.png",
+  "keywords": ["scala", "sangria", "graphql", "circe"]
+}
